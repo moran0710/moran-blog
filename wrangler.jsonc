@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "moran-blog",
   "compatibility_date": "2025-07-13",
   "assets": {
     "directory": "./dist",
